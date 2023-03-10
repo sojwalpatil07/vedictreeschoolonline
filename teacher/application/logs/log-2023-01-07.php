@@ -1,0 +1,20 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-01-07 07:04:44 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/vedictreeonline/public_html/teacher/application/controllers/api/teacher/Homeworkupload.php 17
+ERROR - 2023-01-07 07:04:44 --> Severity: Notice --> Uninitialized string offset: 0 /home/vedictreeonline/public_html/teacher/application/controllers/api/teacher/Homeworkupload.php 23
+ERROR - 2023-01-07 07:04:44 --> Severity: Notice --> Uninitialized string offset: 0 /home/vedictreeonline/public_html/teacher/application/controllers/api/teacher/Homeworkupload.php 24
+ERROR - 2023-01-07 07:04:44 --> Severity: Notice --> Trying to access array offset on value of type int /home/vedictreeonline/public_html/teacher/application/controllers/api/teacher/Homeworkupload.php 25
+ERROR - 2023-01-07 07:04:44 --> Severity: Notice --> Trying to access array offset on value of type int /home/vedictreeonline/public_html/teacher/application/controllers/api/teacher/Homeworkupload.php 26
+ERROR - 2023-01-07 07:04:44 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/vedictreeonline/public_html/teacher/system/core/Exceptions.php:271) /home/vedictreeonline/public_html/teacher/system/core/Common.php 570
+ERROR - 2023-01-07 07:14:58 --> Severity: Notice --> Undefined variable: teacher_session /home/vedictreeonline/public_html/teacher/application/controllers/api/teacher/View_submitted_homework_studlist.php 23
+ERROR - 2023-01-07 07:14:58 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/vedictreeonline/public_html/teacher/system/core/Exceptions.php:271) /home/vedictreeonline/public_html/teacher/system/core/Common.php 570
+ERROR - 2023-01-07 07:34:29 --> Severity: Notice --> Undefined offset: 0 /home/vedictreeonline/public_html/teacher/application/controllers/api/teacher/Student_homework_particular.php 20
+ERROR - 2023-01-07 07:34:29 --> Severity: Notice --> Trying to access array offset on value of type null /home/vedictreeonline/public_html/teacher/application/controllers/api/teacher/Student_homework_particular.php 20
+ERROR - 2023-01-07 07:34:29 --> Severity: Notice --> Undefined offset: 0 /home/vedictreeonline/public_html/teacher/application/controllers/api/teacher/Student_homework_particular.php 21
+ERROR - 2023-01-07 07:34:29 --> Severity: Notice --> Trying to access array offset on value of type null /home/vedictreeonline/public_html/teacher/application/controllers/api/teacher/Student_homework_particular.php 21
+ERROR - 2023-01-07 07:34:29 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/vedictreeonline/public_html/teacher/system/core/Exceptions.php:271) /home/vedictreeonline/public_html/teacher/system/core/Common.php 570
+ERROR - 2023-01-07 07:34:50 --> Severity: Notice --> Undefined offset: 0 /home/vedictreeonline/public_html/teacher/application/controllers/api/teacher/Student_homework_particular.php 20
+ERROR - 2023-01-07 07:34:50 --> Severity: Notice --> Trying to access array offset on value of type null /home/vedictreeonline/public_html/teacher/application/controllers/api/teacher/Student_homework_particular.php 20
+ERROR - 2023-01-07 07:34:50 --> Severity: Notice --> Undefined offset: 0 /home/vedictreeonline/public_html/teacher/application/controllers/api/teacher/Student_homework_particular.php 21
+ERROR - 2023-01-07 07:34:50 --> Severity: Notice --> Trying to access array offset on value of type null /home/vedictreeonline/public_html/teacher/application/controllers/api/teacher/Student_homework_particular.php 21
+ERROR - 2023-01-07 07:34:50 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/vedictreeonline/public_html/teacher/system/core/Exceptions.php:271) /home/vedictreeonline/public_html/teacher/system/core/Common.php 570

@@ -1,0 +1,15 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-02-05 17:46:32 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_sessionc261cd2a783f187aded2ba28c007db4bf669bd9e): Failed to open stream: No space left on device /home/vedictreeonline/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2023-02-05 17:46:32 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_sessionc261cd2a783f187aded2ba28c007db4bf669bd9e'.
+ERROR - 2023-02-05 17:46:32 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeonline/public_html/system/libraries/Session/Session.php 143
+ERROR - 2023-02-05 17:46:32 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/vedictreeonline/public_html/system/core/Exceptions.php:271) /home/vedictreeonline/public_html/application/libraries/REST_Controller.php 2119
+ERROR - 2023-02-05 17:46:32 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/vedictreeonline/public_html/system/core/Exceptions.php:271) /home/vedictreeonline/public_html/system/core/Common.php 570
+ERROR - 2023-02-05 17:46:32 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/vedictreeonline/public_html/system/core/Exceptions.php:271) /home/vedictreeonline/public_html/system/core/Common.php 570
+ERROR - 2023-02-05 17:46:32 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/vedictreeonline/public_html/system/core/Exceptions.php:271) /home/vedictreeonline/public_html/system/core/Common.php 570
+ERROR - 2023-02-05 22:40:43 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_session8022e13197f13e444b61c60f6e4bd446bc60346f): Failed to open stream: No space left on device /home/vedictreeonline/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2023-02-05 22:40:43 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_session8022e13197f13e444b61c60f6e4bd446bc60346f'.
+ERROR - 2023-02-05 22:40:43 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeonline/public_html/system/libraries/Session/Session.php 143
+ERROR - 2023-02-05 22:40:48 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_session8022e13197f13e444b61c60f6e4bd446bc60346f): Failed to open stream: No space left on device /home/vedictreeonline/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2023-02-05 22:40:48 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_session8022e13197f13e444b61c60f6e4bd446bc60346f'.
+ERROR - 2023-02-05 22:40:48 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeonline/public_html/system/libraries/Session/Session.php 143

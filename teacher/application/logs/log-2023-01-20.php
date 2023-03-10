@@ -1,0 +1,9 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-01-20 06:52:19 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_session3040b8fd95aefebe022c4e39c9fdd51dc9aa1841): failed to open stream: No space left on device /home/vedictreeonline/public_html/teacher/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2023-01-20 06:52:19 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_session3040b8fd95aefebe022c4e39c9fdd51dc9aa1841'.
+ERROR - 2023-01-20 06:52:19 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeonline/public_html/teacher/system/libraries/Session/Session.php 143
+ERROR - 2023-01-20 06:52:19 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/vedictreeonline/public_html/teacher/system/core/Exceptions.php:271) /home/vedictreeonline/public_html/teacher/application/libraries/REST_Controller.php 2119
+ERROR - 2023-01-20 06:52:19 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/vedictreeonline/public_html/teacher/system/core/Exceptions.php:271) /home/vedictreeonline/public_html/teacher/system/core/Common.php 570
+ERROR - 2023-01-20 06:52:19 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/vedictreeonline/public_html/teacher/system/core/Exceptions.php:271) /home/vedictreeonline/public_html/teacher/system/core/Common.php 570
+ERROR - 2023-01-20 06:52:19 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/vedictreeonline/public_html/teacher/system/core/Exceptions.php:271) /home/vedictreeonline/public_html/teacher/system/core/Common.php 570

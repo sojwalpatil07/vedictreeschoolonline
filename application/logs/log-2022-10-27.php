@@ -1,0 +1,57 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-10-27 00:57:01 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_session90339bd9cb92801cdb71e5f9953c0f3cc9da7da0): failed to open stream: No space left on device /home/vedictreeschool/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2022-10-27 00:57:01 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_session90339bd9cb92801cdb71e5f9953c0f3cc9da7da0'.
+ERROR - 2022-10-27 00:57:01 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeschool/public_html/system/libraries/Session/Session.php 143
+ERROR - 2022-10-27 04:49:02 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_sessionfb7044a623e68cf22700a599cfd759d6c2ed83bc): failed to open stream: No space left on device /home/vedictreeschool/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2022-10-27 04:49:02 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_sessionfb7044a623e68cf22700a599cfd759d6c2ed83bc'.
+ERROR - 2022-10-27 04:49:02 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeschool/public_html/system/libraries/Session/Session.php 143
+ERROR - 2022-10-27 06:06:15 --> Severity: Notice --> Undefined offset: 0 /home/vedictreeschool/public_html/application/views/dyanamic_blogs.php 20
+ERROR - 2022-10-27 06:06:15 --> Severity: Notice --> Undefined offset: 0 /home/vedictreeschool/public_html/application/views/dyanamic_blogs.php 22
+ERROR - 2022-10-27 06:47:01 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_session1668e118bc6977ec5fd711d6a59103b2412300e1): failed to open stream: No space left on device /home/vedictreeschool/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2022-10-27 06:47:01 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_session1668e118bc6977ec5fd711d6a59103b2412300e1'.
+ERROR - 2022-10-27 06:47:01 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeschool/public_html/system/libraries/Session/Session.php 143
+ERROR - 2022-10-27 06:49:02 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_session9c9c7a2a8814b8a3782576d522f6488d6cbc94ab): failed to open stream: No space left on device /home/vedictreeschool/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2022-10-27 06:49:02 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_session9c9c7a2a8814b8a3782576d522f6488d6cbc94ab'.
+ERROR - 2022-10-27 06:49:02 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeschool/public_html/system/libraries/Session/Session.php 143
+ERROR - 2022-10-27 06:58:01 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_session05516c6e4c8acf402ef894d674446d4a435a30bd): failed to open stream: No space left on device /home/vedictreeschool/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2022-10-27 06:58:01 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_session05516c6e4c8acf402ef894d674446d4a435a30bd'.
+ERROR - 2022-10-27 06:58:01 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeschool/public_html/system/libraries/Session/Session.php 143
+ERROR - 2022-10-27 08:04:42 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_sessioncfcf13af8cad995c0549a2e56e6ad68c47f9a3d7): failed to open stream: No space left on device /home/vedictreeschool/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2022-10-27 08:04:42 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_sessioncfcf13af8cad995c0549a2e56e6ad68c47f9a3d7'.
+ERROR - 2022-10-27 08:04:42 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeschool/public_html/system/libraries/Session/Session.php 143
+ERROR - 2022-10-27 08:51:18 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_session97a28348ae98b018ee7d1e1dec658e3212ddbf09): failed to open stream: No space left on device /home/vedictreeschool/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2022-10-27 08:51:18 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_session97a28348ae98b018ee7d1e1dec658e3212ddbf09'.
+ERROR - 2022-10-27 08:51:18 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeschool/public_html/system/libraries/Session/Session.php 143
+ERROR - 2022-10-27 10:55:02 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_sessione936248d56a3c615f20a15eb8e54551507054834): failed to open stream: No space left on device /home/vedictreeschool/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2022-10-27 10:55:02 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_sessione936248d56a3c615f20a15eb8e54551507054834'.
+ERROR - 2022-10-27 10:55:02 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeschool/public_html/system/libraries/Session/Session.php 143
+ERROR - 2022-10-27 11:18:01 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_session7096e7a7c5a938a2f2d0dad64ac0107b96dad95a): failed to open stream: No space left on device /home/vedictreeschool/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2022-10-27 11:18:01 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_session7096e7a7c5a938a2f2d0dad64ac0107b96dad95a'.
+ERROR - 2022-10-27 11:18:01 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeschool/public_html/system/libraries/Session/Session.php 143
+ERROR - 2022-10-27 13:58:46 --> Severity: Notice --> Undefined offset: 0 /home/vedictreeschool/public_html/application/views/dyanamic_blogs.php 20
+ERROR - 2022-10-27 13:58:46 --> Severity: Notice --> Undefined offset: 0 /home/vedictreeschool/public_html/application/views/dyanamic_blogs.php 22
+ERROR - 2022-10-27 14:25:27 --> Severity: Notice --> Undefined offset: 0 /home/vedictreeschool/public_html/application/views/dyanamic_blogs.php 20
+ERROR - 2022-10-27 14:25:27 --> Severity: Notice --> Undefined offset: 0 /home/vedictreeschool/public_html/application/views/dyanamic_blogs.php 22
+ERROR - 2022-10-27 15:26:02 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_sessionc693bbf0cb2ad1f36376c2e42880b2b29349d6aa): failed to open stream: No space left on device /home/vedictreeschool/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2022-10-27 15:26:02 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_sessionc693bbf0cb2ad1f36376c2e42880b2b29349d6aa'.
+ERROR - 2022-10-27 15:26:02 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeschool/public_html/system/libraries/Session/Session.php 143
+ERROR - 2022-10-27 20:33:01 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_session2f7857296daa057b147a8bc9162b3afde76b35ac): failed to open stream: No space left on device /home/vedictreeschool/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2022-10-27 20:33:01 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_session2f7857296daa057b147a8bc9162b3afde76b35ac'.
+ERROR - 2022-10-27 20:33:01 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeschool/public_html/system/libraries/Session/Session.php 143
+ERROR - 2022-10-27 21:17:41 --> Severity: Notice --> Undefined offset: 0 /home/vedictreeschool/public_html/application/views/dyanamic_blogs.php 20
+ERROR - 2022-10-27 21:17:41 --> Severity: Notice --> Undefined offset: 0 /home/vedictreeschool/public_html/application/views/dyanamic_blogs.php 22
+ERROR - 2022-10-27 21:40:28 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_sessionb1af74b7bbd34b92e200a17d6903c3d99b50019c): failed to open stream: No space left on device /home/vedictreeschool/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2022-10-27 21:40:28 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_sessionb1af74b7bbd34b92e200a17d6903c3d99b50019c'.
+ERROR - 2022-10-27 21:40:28 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeschool/public_html/system/libraries/Session/Session.php 143
+ERROR - 2022-10-27 22:30:01 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_session7b7ee3a1210d89405ad704c56de5aecc2c887d5a): failed to open stream: No space left on device /home/vedictreeschool/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2022-10-27 22:30:01 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_session7b7ee3a1210d89405ad704c56de5aecc2c887d5a'.
+ERROR - 2022-10-27 22:30:01 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeschool/public_html/system/libraries/Session/Session.php 143
+ERROR - 2022-10-27 22:35:01 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_session6a82df9d807fe3a00abc0312dc70b30fe14be4e1): failed to open stream: No space left on device /home/vedictreeschool/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2022-10-27 22:35:01 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_session6a82df9d807fe3a00abc0312dc70b30fe14be4e1'.
+ERROR - 2022-10-27 22:35:01 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeschool/public_html/system/libraries/Session/Session.php 143
+ERROR - 2022-10-27 22:43:02 --> Severity: Warning --> fopen(/var/cpanel/php/sessions/ea-php74/ci_sessiond2f61417a395a354bb30ac6765c3c2b2cb8aee79): failed to open stream: No space left on device /home/vedictreeschool/public_html/system/libraries/Session/drivers/Session_files_driver.php 176
+ERROR - 2022-10-27 22:43:02 --> Session: Unable to open file '/var/cpanel/php/sessions/ea-php74/ci_sessiond2f61417a395a354bb30ac6765c3c2b2cb8aee79'.
+ERROR - 2022-10-27 22:43:02 --> Severity: Warning --> session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) /home/vedictreeschool/public_html/system/libraries/Session/Session.php 143
+ERROR - 2022-10-27 23:02:16 --> Severity: Notice --> Undefined offset: 0 /home/vedictreeschool/public_html/application/views/dyanamic_blogs.php 20
+ERROR - 2022-10-27 23:02:16 --> Severity: Notice --> Undefined offset: 0 /home/vedictreeschool/public_html/application/views/dyanamic_blogs.php 22
